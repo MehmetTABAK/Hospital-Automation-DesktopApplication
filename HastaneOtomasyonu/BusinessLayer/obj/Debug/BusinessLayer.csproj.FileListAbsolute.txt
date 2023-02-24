@@ -1,0 +1,11 @@
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete

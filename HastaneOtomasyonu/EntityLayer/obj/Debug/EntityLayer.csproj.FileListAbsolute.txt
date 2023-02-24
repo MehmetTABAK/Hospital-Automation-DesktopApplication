@@ -1,0 +1,6 @@
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\mtaba\OneDrive\Masaüstü\HastaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb
